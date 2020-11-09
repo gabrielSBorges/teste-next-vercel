@@ -1,0 +1,16 @@
+{
+  "name": "teste-next-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabrielSBorges/teste-next-vercel.git",
+  "author": "gabrielSBorges <borgesgabrielsilva@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
