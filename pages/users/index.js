@@ -1,5 +1,13 @@
+import Link from 'next/link';
+
 function Users() {
-  return <h1>Usuários do Sisteminha Delicinha!!!</h1>
+  return (
+    <div>
+      <h1>Usuários do Sisteminha Delicinha!!!</h1>
+  
+      <Link href="/">Home</Link>
+    </div>
+  );
 }
 
 export default Users;
