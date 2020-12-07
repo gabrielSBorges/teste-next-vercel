@@ -1,11 +1,11 @@
-import Link from 'next/link';
+import GLink from '../../components/GLink.js';
 
 function Users() {
   return (
     <div>
       <h1>Usuários do Sisteminha Delicinha!!!</h1>
   
-      <Link href="/">Home</Link>
+      <GLink href="/">Home</GLink>
     </div>
   );
 }
